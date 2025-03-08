@@ -21,7 +21,7 @@
     },    
     "require": {
         "php": ">=5.3",
-        "phpoffice/phpexcel": "1.8.0",
+        "phpoffice/phpexcel": "1.8.2",
         "symfony/filesystem": "2.6.6",
         "symfony/finder": "2.6.6",
         "symfony/console": "2.6.6",
